@@ -1,0 +1,951 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   style=""
+   id="card"
+   version="1.1"
+   viewBox="0 0 90 60"
+   height="60mm"
+   width="90mm"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <style
+     id="style3054"
+     style="">
+.score-engrave { 
+    stroke:#00ff00;
+    fill:none;
+}
+.text { stroke:#ff6600; }
+.text-engrave { stroke:#0000ff; }
+.engrave-matte { 
+    stroke:none;
+    fill:#660066;
+}
+.engrave-depth { 
+    fill:#000000;
+    stroke:none;
+}
+.score { stroke:#00ffff;    fill:none; }
+.font { fill:none;    font-family:'Roboto Mono';    font-size:2px;    font-weight:100; }
+.ruler-text { font-size:1.35px; }
+.cut-inner { fill:none;    stroke:#ff00ff; }
+.cut-outer { fill:none;    stroke:#ff0000; }
+.guide { stroke:#ffff00;    fill:none; }
+* { 
+  /*-inkscape-stroke:hairline;*/
+    stroke-width:0.01mm;
+}
+</style>
+  <defs
+     id="defs2930"
+     style="">
+    <rect
+       x="51.378495"
+       y="184.14798"
+       width="8.7578859"
+       height="7.9875035"
+       id="rect7585"
+       style="" />
+    <rect
+       x="-40.320685"
+       y="224.61999"
+       width="13.623056"
+       height="11.451801"
+       id="rect7579"
+       style="" />
+    <rect
+       x="-42.174048"
+       y="216.91192"
+       width="25.257096"
+       height="16.622653"
+       id="rect7573"
+       style="" />
+  </defs>
+  <g
+     id="card-group"
+     style="">
+    <rect
+       id="card-guide"
+       width="85.5"
+       height="54"
+       x="2.25"
+       y="3"
+       class="guide"
+       style="display:inline" />
+    <rect
+       id="card-cut"
+       width="85.5"
+       height="54"
+       x="2.25"
+       y="3"
+       class="cut-outer"
+       rx="3"
+       ry="3"
+       style="display:inline" />
+    <rect
+       id="inner-guide"
+       width="78.5"
+       height="46"
+       x="5.75"
+       y="7"
+       class="guide"
+       style="display:inline" />
+  </g>
+  <rect
+     id="outer-guide"
+     width="90"
+     height="60"
+     x="0"
+     y="0"
+     class="guide"
+     style="" />
+  <rect
+     id="outer-cut"
+     width="90"
+     height="60"
+     x="0"
+     y="0"
+     class="cut-outer"
+     style="display:inline" />
+  <g
+     id="front-group"
+     style="display:inline">
+    <g
+       id="paperclip-group">
+      <rect
+         id="paperclip-guide"
+         width="30.700001"
+         height="10.2"
+         x="16.750248"
+         y="7.75"
+         class="guide" />
+      <rect
+         id="paperclip-engrave"
+         width="28.700001"
+         height="8.1999998"
+         x="17.750248"
+         y="8.75"
+         class="engrave-depth"
+         rx="3.5"
+         ry="3.5"
+         style="display:inline" />
+      <text
+         x="26.632473"
+         y="13.560938"
+         id="paperclip-text"
+         class="text-engrave  font"><tspan
+           id="tspan1670"
+           x="26.632473"
+           y="13.560938">PAPERCLIP</tspan></text>
+    </g>
+    <g
+       id="pick-group">
+      <rect
+         id="pick-guide"
+         width="78.5"
+         height="9.6999998"
+         x="5.75"
+         y="43.299999"
+         class="guide"
+         style="display:inline" />
+      <rect
+         id="pick-engrave"
+         width="78.5"
+         height="8.6999998"
+         x="5.75"
+         y="44.299999"
+         class="engrave-depth"
+         rx="4"
+         ry="4"
+         style="display:inline" />
+      <text
+         x="10.429016"
+         y="51.960331"
+         id="pick-text"
+         class="text-engrave  font">PICK</text>
+      <rect
+         id="pick-guide-text"
+         width="1"
+         height="1"
+         x="9.6464462"
+         y="51.999001"
+         class="guide"
+         style="display:none" />
+    </g>
+    <g
+       id="ruler-group-metric">
+      <g
+         id="ruler-metric-numbers-group-bottom">
+        <text
+           xml:space="preserve"
+           id="ruler-metric-numbers-bottom-1"
+           class="text  font  ruler-text"
+           x="13"
+           y="55">1</text>
+        <text
+           xml:space="preserve"
+           id="ruler-metric-numbers-bottom-2"
+           class="text  font  ruler-text"
+           x="23"
+           y="55">2</text>
+        <text
+           xml:space="preserve"
+           id="ruler-metric-numbers-bottom-3"
+           class="text  font  ruler-text"
+           x="32.75"
+           y="55">3</text>
+        <text
+           xml:space="preserve"
+           id="ruler-metric-numbers-bottom-4"
+           class="text  font  ruler-text"
+           x="42.75"
+           y="55">4</text>
+        <text
+           xml:space="preserve"
+           id="ruler-metric-numbers-bottom-5"
+           class="text  font  ruler-text"
+           x="52.75"
+           y="55">5</text>
+        <text
+           xml:space="preserve"
+           id="ruler-metric-numbers-bottom-6"
+           class="text  font  ruler-text"
+           x="62.75"
+           y="55">6</text>
+        <text
+           xml:space="preserve"
+           id="ruler-metric-numbers-bottom-7"
+           class="text  font  ruler-text"
+           x="73.249931"
+           y="55">7</text>
+        <text
+           xml:space="preserve"
+           id="ruler-metric-numbers-bottom-8"
+           class="text  font  ruler-text"
+           x="83"
+           y="55">8</text>
+      </g>
+      <g
+         id="ruler-metric-numbers-group-top">
+        <text
+           xml:space="preserve"
+           id="ruler-metric-numbers-top-0"
+           class="text  font  ruler-text"
+           x="6"
+           y="6">0</text>
+        <text
+           xml:space="preserve"
+           id="ruler-metric-numbers-top-1"
+           class="text  font  ruler-text"
+           x="16"
+           y="6">1</text>
+        <text
+           xml:space="preserve"
+           id="ruler-metric-numbers-top-2"
+           class="text  font  ruler-text"
+           x="26"
+           y="6">2</text>
+        <text
+           xml:space="preserve"
+           id="ruler-metric-numbers-top-3"
+           class="text  font  ruler-text"
+           x="36"
+           y="6">3</text>
+        <text
+           xml:space="preserve"
+           id="ruler-metric-numbers-top-4"
+           class="text  font  ruler-text"
+           x="46"
+           y="6">4</text>
+        <text
+           xml:space="preserve"
+           id="ruler-metric-numbers-top-5"
+           class="text  font  ruler-text"
+           x="56"
+           y="6">5</text>
+        <text
+           xml:space="preserve"
+           id="ruler-metric-numbers-top-6"
+           class="text  font  ruler-text"
+           x="66"
+           y="6">6</text>
+        <text
+           xml:space="preserve"
+           id="ruler-metric-numbers-top-7"
+           class="text  font  ruler-text"
+           x="76"
+           y="6">7</text>
+      </g>
+      <path
+         d="m 2.25,3 m 3,0 v 3 z m 1,0 v 1 z m 1,0 v 1 z m 1,0 v 1 z m 1,0 v 1 z m 1,0 v 2 z m 1,0 v 1 z m 1,0 v 1 z m 1,0 v 1 z m 1,0 v 1 z m 1,0 v 3 z m 1,0 v 1 z m 1,0 v 1 z m 1,0 v 1 z m 1,0 v 1 z m 1,0 v 2 z m 1,0 v 1 z m 1,0 v 1 z m 1,0 v 1 z m 1,0 v 1 z m 1,0 v 3 z m 1,0 v 1 z m 1,0 v 1 z m 1,0 v 1 z m 1,0 v 1 z m 1,0 v 2 z m 1,0 v 1 z m 1,0 v 1 z m 1,0 v 1 z m 1,0 v 1 z m 1,0 v 3 z m 1,0 v 1 z m 1,0 v 1 z m 1,0 v 1 z m 1,0 v 1 z m 1,0 v 2 z m 1,0 v 1 z m 1,0 v 1 z m 1,0 v 1 z m 1,0 v 1 z m 1,0 v 3 z m 1,0 v 1 z m 1,0 v 1 z m 1,0 v 1 z m 1,0 v 1 z m 1,0 v 2 z m 1,0 v 1 z m 1,0 v 1 z m 1,0 v 1 z m 1,0 v 1 z m 1,0 v 3 z m 1,0 v 1 z m 1,0 v 1 z m 1,0 v 1 z m 1,0 v 1 z m 1,0 v 2 z m 1,0 v 1 z m 1,0 v 1 z m 1,0 v 1 z m 1,0 v 1 z m 1,0 v 3 z m 1,0 v 1 z m 1,0 v 1 z m 1,0 v 1 z m 1,0 v 1 z m 1,0 v 2 z m 1,0 v 1 z m 1,0 v 1 z m 1,0 v 1 z m 1,0 v 1 z m 1,0 v 3 z m 1,0 v 1 z m 1,0 v 1 z m 1,0 v 1 z m 1,0 v 1 z m 1,0 v 2 z m 1,0 v 1 z m 1,0 v 1 z m 1,0 v 1 z m 1,0 v 1 z m 1,0 v 3 z m -83,0 m 0,54 m 0,-1 h 1 z m 0,-1 h 1 z m 0,-1 h 1 z m 0,-1 h 1 z m 0,-1 h 2 z m 0,-1 h 1 z m 0,-1 h 1 z m 0,-1 h 1 z m 0,-1 h 1 z m 0,-1 h 3 z m 0,-1 h 1 z m 0,-1 h 1 z m 0,-1 h 1 z m 0,-1 h 1 z m 0,-1 h 2 z m 0,-1 h 1 z m 0,-1 h 1 z m 0,-1 h 1 z m 0,-1 h 1 z m 0,-1 h 3 z m 0,-1 h 1 z m 0,-1 h 1 z m 0,-1 h 1 z m 0,-1 h 1 z m 0,-1 h 2 z m 0,-1 h 1 z m 0,-1 h 1 z m 0,-1 h 1 z m 0,-1 h 1 z m 0,-1 h 3 z m 0,-1 h 1 z m 0,-1 h 1 z m 0,-1 h 1 z m 0,-1 h 1 z m 0,-1 h 2 z m 0,-1 h 1 z m 0,-1 h 1 z m 0,-1 h 1 z m 0,-1 h 1 z m 0,-1 h 3 z m 0,-1 h 1 z m 0,-1 h 1 z m 0,-1 h 1 z m 0,-1 h 1 z m 0,-1 h 2 z m 0,-1 h 1 z m 0,-1 h 1 z m 0,-1 h 1 z m 0,-1 h 1 z m 0,-1 h 3 z m 0,-1 h 1 z m 0,-1 h 1 z m 0,-1 h 1 z m 0,-1 m 0,54 m 1,0 m 1,0 m 1,0 v -1 z m 1,0 v -1 z m 1,0 v -2 z m 1,0 v -1 z m 1,0 v -1 z m 1,0 v -1 z m 1,0 v -1 z m 1,0 v -3 z m 1,0 v -1 z m 1,0 v -1 z m 1,0 v -1 z m 1,0 v -1 z m 1,0 v -2 z m 1,0 v -1 z m 1,0 v -1 z m 1,0 v -1 z m 1,0 v -1 z m 1,0 v -3 z m 1,0 v -1 z m 1,0 v -1 z m 1,0 v -1 z m 1,0 v -1 z m 1,0 v -2 z m 1,0 v -1 z m 1,0 v -1 z m 1,0 v -1 z m 1,0 v -1 z m 1,0 v -3 z m 1,0 v -1 z m 1,0 v -1 z m 1,0 v -1 z m 1,0 v -1 z m 1,0 v -2 z m 1,0 v -1 z m 1,0 v -1 z m 1,0 v -1 z m 1,0 v -1 z m 1,0 v -3 z m 1,0 v -1 z m 1,0 v -1 z m 1,0 v -1 z m 1,0 v -1 z m 1,0 v -2 z m 1,0 v -1 z m 1,0 v -1 z m 1,0 v -1 z m 1,0 v -1 z m 1,0 v -3 z m 1,0 v -1 z m 1,0 v -1 z m 1,0 v -1 z m 1,0 v -1 z m 1,0 v -2 z m 1,0 v -1 z m 1,0 v -1 z m 1,0 v -1 z m 1,0 v -1 z m 1,0 v -3 z m 1,0 v -1 z m 1,0 v -1 z m 1,0 v -1 z m 1,0 v -1 z m 1,0 v -2 z m 1,0 v -1 z m 1,0 v -1 z m 1,0 v -1 z m 1,0 v -1 z m 1,0 v -3 z m 1,0 v -1 z m 1,0 v -1 z m 1,0 v -1 z m 1,0 v -1 z m 1,0 v -2 z m 1,0 v -1 z m 1,0 v -1 z m 1,0 v -1 z m 1,0 v -1 z m 1,0 v -3 z m 1,0 v -1 z m 1,0 v -1 z m 1,0 v -1 z m 1,0 v -1 z m 1,0 v -2 z"
+         id="ruler-markings-metric"
+         class="score" />
+    </g>
+    <g
+       id="front-text-group"
+       style="display:inline">
+      <text
+         xml:space="preserve"
+         x="-64.948044"
+         y="-23.009052"
+         id="tmp-front"
+         class="text font"
+         transform="scale(-1)">TMP</text>
+      <text
+         xml:space="preserve"
+         x="-39.602051"
+         y="86.555519"
+         id="signature"
+         class="text font"
+         transform="rotate(-90)">Designed by Evan</text>
+      <text
+         xml:space="preserve"
+         x="61.287258"
+         y="39.14925"
+         id="marker-string-match"
+         class="text font">MARKER/STRING/MATCH</text>
+      <text
+         xml:space="preserve"
+         x="66.799133"
+         y="9.6100912"
+         id="stand-wrench"
+         class="text font">STAND/WRENCH</text>
+      <text
+         xml:space="preserve"
+         x="76.33136"
+         y="24.430927"
+         id="boot-front"
+         class="text font">BOOT</text>
+      <rect
+         id="signature-align-guide"
+         width="3.4622047"
+         height="9.9622049"
+         x="84.287796"
+         y="25.018898"
+         class="guide"
+         style="display:inline" />
+      <rect
+         id="page-guide-box"
+         width="90"
+         height="60"
+         x="0"
+         y="0"
+         class="guide" />
+    </g>
+  </g>
+  <rect
+     id="wrench-guide-top"
+     width="23.214819"
+     height="0.74999958"
+     x="56.275509"
+     y="7"
+     class="guide"
+     style="display:none" />
+  <rect
+     id="wrench-guide-right"
+     width="0.75"
+     height="13.593022"
+     x="83.5"
+     y="8.1069775"
+     class="guide"
+     style="display:none" />
+  <g
+     id="cut-group-front"
+     style="display:inline">
+    <path
+       id="match-cut"
+       style="fill:none"
+       class="cut-inner"
+       d="m 35.050057,39.699902 c -0.997198,0 -1.79989,0.802692 -1.79989,1.79989 0,0.997198 0.802692,1.800407 1.79989,1.800407 h 47.399691 c 0.997198,0 1.800407,-0.803209 1.800407,-1.800407 0,-0.997198 -0.803209,-1.79989 -1.800407,-1.79989 -11.069791,0 -22.139583,0 -33.209374,0 -2.448775,0.79699 -5.087199,0.79699 -7.535974,0 h -10e-4 -6.653341 z" />
+    <path
+       id="star-cut"
+       class="inner-cut-path  cut-inner"
+       d="m 51.603242,16.949999 0.981,-3.01741 3.173,-1.2e-4 -2.567,-1.86498 0.98,-3.0174796 -2.567,1.8647796 -2.567,-1.8647796 0.981,3.0174796 -2.567,1.86498 3.173,1.2e-4 z" />
+    <path
+       id="rabbit-cut"
+       class="inner-cut-path  cut-inner"
+       d="m 16.626282,12.817419 c -0.345,0.9205 -1.073,1.6042 -2.389,2.2286 -0.308,0.1454 -0.554,0.2598 -0.639,0.3456 -0.05,0.0782 -0.699,0.6772 -1.125,0.9356 -0.508,0.2477 -0.738,0.3293 -1.5,0.2853 -0.588,-0.0861 -0.825,-0.2045 -1.0629999,-0.5221 -0.102,-0.1346 -0.21,-0.2476 -0.232,-0.2476 -0.027,0 -0.162,0.0592 -0.302,0.1291 -0.345,0.1723 -1.397,0.5599 -1.64,0.603 l -0.145001,0.1938 c 0.156001,0.296 -0.151,0.5275 -0.567,0.4145 -0.275,-0.0754 -0.582,-0.2315 -0.68,-0.3392 -0.037,-0.0484 -0.075,-0.1776 -0.086,-0.2907 -0.005,-0.1076 -0.054,-0.3929 -0.102,-0.6298 -0.092,-0.463 -0.184,-1.3512 -0.227,-2.2071 -0.016,-0.3553 -0.054,-0.5652 -0.102,-0.6244 -0.098,-0.1077 -0.098,-0.1938 -0.027,-1.0013 0.064,-0.7429 0.237,-1.2328 0.534,-1.4965 0.14,-0.1238 0.156,-0.1723 0.135,-0.3499 -0.027,-0.1777 -0.006,-0.2315 0.161,-0.4091996 0.236,-0.243599 0.716,-0.331199 0.907,-0.0753 0.111001,0.1674 0.113001,0.3362996 0.118001,0.5274996 0.684,0.113 1.411,0.2594 1.98,0.3499 l 0.34,-0.1722 c 0.4099999,-0.21 0.8409999,-0.2746 1.3699999,-0.2154 0.486,0.0539 0.804,0.1346 1.03,0.2692 0.098,0.0538 0.189,0.1023 0.2,0.1023 0.011,0 0.097,-0.1615 0.194,-0.3661 0.227,-0.4736996 0.799,-1.0442988 1.306,-1.2972991 0.669,-0.3338 1.176,-0.2638 1.37,0.1992003 0.135,0.3283002 0.07,0.9473988 -0.157,1.4264988 -0.215,0.4468 -0.701,1.0712 -1.181,1.5127 l -0.264,0.4898 0.064,0.1884 0.33,-0.3014 c 0.609,-0.5491 1.521,-0.8936 2.039,-0.7806 0.48,0.1077 0.593,0.4684 0.35,1.1251 z" />
+    <path
+       id="wrench-cut"
+       class="cut-inner"
+       d="m 6.8,7 h 75.7 q 1.75,0 1.75,1.75 V 21.7 H 83.5 V 8.25 q 0,-0.5 -0.5,-0.5 H 6.8 Z" />
+    <path
+       id="usb-cut-boot"
+       width="22.799999"
+       height="12.4"
+       x="61.450001"
+       y="24.879139"
+       class="cut-inner"
+       d="M 61.450001,24.879139 H 84.25 v 12.4 H 61.450001 Z" />
+    <path
+       id="usb-cut-tmp"
+       width="22.799999"
+       height="12.4"
+       x="58.228622"
+       y="10.160842"
+       class="cut-inner"
+       d="m 58.228622,10.160842 h 22.8 v 12.4 h -22.8 z" />
+    <g
+       id="hole-group">
+      <g
+         id="hole-group-2d">
+        <circle
+           id="center-2d"
+           cx="33.744339"
+           cy="36.197552"
+           class="score"
+           r="0.050000001" />
+        <circle
+           id="circle-2d"
+           cx="33.744339"
+           cy="36.197552"
+           class="score"
+           r="1" />
+      </g>
+      <g
+         id="hole-group-2.5d"
+         style="display:inline">
+        <circle
+           id="center-2.5d"
+           cx="57.700039"
+           cy="35.899853"
+           class="score"
+           r="0.050000001" />
+        <circle
+           id="circle-2.5d"
+           cx="57.700039"
+           cy="35.899853"
+           class="score"
+           r="1.25" />
+      </g>
+      <g
+         id="hole-group-3d">
+        <circle
+           id="center-3d"
+           cx="32.844337"
+           cy="19.471952"
+           class="score"
+           r="0.050000001" />
+        <circle
+           id="circle-3d"
+           cx="32.844337"
+           cy="19.471952"
+           class="score"
+           r="1.5" />
+      </g>
+      <g
+         id="hole-guide"
+         transform="translate(6.0424324,38.555733)"
+         style="display:none">
+        <circle
+           id="circle26165"
+           cx="39.432568"
+           cy="-10.430734"
+           class="guide"
+           r="4"
+           style="display:none" />
+        <circle
+           id="circle26195"
+           cx="39.432568"
+           cy="-10.430734"
+           class="guide"
+           r="3.75"
+           style="display:inline" />
+        <circle
+           id="circle26161"
+           cx="39.432568"
+           cy="-10.430734"
+           class="guide"
+           r="3.5" />
+        <circle
+           id="circle26163"
+           cx="39.432568"
+           cy="-10.430734"
+           class="guide"
+           r="3" />
+        <circle
+           id="circle26167"
+           cx="39.432568"
+           cy="-10.430734"
+           class="guide"
+           r="2.5" />
+        <circle
+           id="circle26169"
+           cx="39.432568"
+           cy="-10.430734"
+           class="guide"
+           r="2" />
+        <circle
+           id="circle26171"
+           cx="39.432568"
+           cy="-10.430734"
+           class="guide"
+           r="1.5" />
+        <circle
+           id="circle26159"
+           cx="39.432568"
+           cy="-10.430734"
+           class="guide"
+           r="1"
+           style="display:inline" />
+        <circle
+           id="circle26173"
+           cx="39.432568"
+           cy="-10.430734"
+           class="guide"
+           r="0.5"
+           style="display:inline" />
+      </g>
+      <g
+         id="hole-group-1.5d"
+         style="display:inline">
+        <circle
+           id="center-1.5d"
+           cx="6.4999971"
+           cy="42.499954"
+           class="score"
+           r="0.050000001" />
+        <circle
+           id="circle26043"
+           cx="6.4999971"
+           cy="42.499954"
+           class="score"
+           r="0.75" />
+      </g>
+      <g
+         id="hole-group-1d">
+        <circle
+           id="center-1d"
+           cx="29.645037"
+           cy="42.749954"
+           class="score"
+           r="0.050000001" />
+        <circle
+           id="circle-1d"
+           cx="29.645037"
+           cy="42.749954"
+           class="score"
+           r="0.5" />
+      </g>
+      <g
+         id="hole-group-0.5d">
+        <circle
+           id="center-0.5d"
+           cx="5.9999971"
+           cy="20.574953"
+           class="score"
+           r="0.050000001" />
+        <circle
+           id="circle-0.5d"
+           cx="5.9999971"
+           cy="20.574953"
+           class="score"
+           r="0.25" />
+      </g>
+      <circle
+         id="hole-0.1d"
+         cx="86.505516"
+         cy="19.758495"
+         class="cut-inner"
+         r="0.050000001" />
+    </g>
+    <g
+       id="circle-group-1"
+       class="inner-cut-path">
+      <path
+         id="degree-circle-markings-15"
+         d="m 18.75,30.25 m 0,-12.45 v -0.5 m 3.222,0.924 0.129,-0.483 m 2.873,1.727 0.25,-0.433 m 2.328,2.412 0.354,-0.354 m 1.625,2.932 0.433,-0.25 m 0.811,3.253 0.483,-0.129 m -0.059,3.352 h 0.5 m -0.924,3.222 0.483,0.129 m -1.727,2.873 0.433,0.25 m -2.412,2.328 0.354,0.354 m -2.932,1.625 0.25,0.433 m -3.253,0.811 0.129,0.483 M 18.748,42.7 v 0.5 m -3.222,-0.924 -0.129,0.483 m -2.873,-1.727 -0.25,0.433 M 9.946,39.053 9.592,39.407 M 7.967,36.475 7.534,36.725 M 6.723,33.472 6.24,33.601 m 0.059,-3.352 h -0.5 M 6.723,27.027 6.24,26.898 M 7.967,24.025 7.534,23.775 M 9.946,21.447 9.592,21.093 m 2.932,-1.625 -0.25,-0.433 m 3.253,-0.811 -0.129,-0.483 z"
+         class="cut-inner" />
+      <circle
+         id="circle-1"
+         class="cut-inner"
+         cx="18.75"
+         cy="30.25"
+         r="12.45" />
+      <circle
+         id="circle-text-guide-1"
+         r="13.5"
+         class="guide"
+         cx="-8.1317272"
+         cy="34.648232"
+         transform="rotate(-45)" />
+      <text
+         xml:space="preserve"
+         id="$1/15"
+         class="font text "><textPath
+           xlink:href="#circle-text-guide-1"
+           id="textPath25195">$1/15°</textPath></text>
+    </g>
+    <g
+       id="circle-group-2">
+      <path
+         id="degree-circle-markings-36"
+         d="m 45.475,28.125 m 0,-10.175 v -0.5 m 5.981,2.443 0.294,-0.405 m 3.402,5.492 0.476,-0.155 m -0.476,6.443 0.476,0.155 m -4.172,4.933 0.294,0.405 M 45.475,38.3 v 0.5 M 39.494,36.357 39.2,36.762 m -3.402,-5.492 -0.476,0.155 m 0.476,-6.443 -0.476,-0.155 M 39.494,19.894 39.2,19.489 Z"
+         class="cut-inner"
+         style="display:inline" />
+      <circle
+         id="circle-2"
+         class="cut-inner"
+         cx="45.474998"
+         cy="28.124508"
+         r="10.175"
+         style="display:inline" />
+      <circle
+         id="circle-text-guide-2"
+         class="guide"
+         cx="12.268651"
+         cy="52.042709"
+         r="11.175"
+         transform="rotate(-45)"
+         style="display:inline" />
+      <text
+         xml:space="preserve"
+         id="$2/36"
+         class="font text"
+         style="display:inline"><textPath
+           xlink:href="#circle-text-guide-2"
+           id="textPath25716">$2/36°</textPath></text>
+      <g
+         id="circle-2-guide-right"
+         transform="translate(15.653884,33.929722)"
+         style="display:none">
+        <circle
+           id="circle22564"
+           cx="42.574738"
+           cy="-11.413548"
+           class="guide"
+           r="1" />
+        <circle
+           id="circle22566"
+           cx="42.574738"
+           cy="-11.413548"
+           class="guide"
+           r="3.5" />
+        <circle
+           id="circle22568"
+           cx="42.574738"
+           cy="-11.413548"
+           class="guide"
+           r="3" />
+        <circle
+           id="circle22570"
+           cx="42.574738"
+           cy="-11.413548"
+           class="guide"
+           r="4" />
+        <circle
+           id="circle22572"
+           cx="42.574738"
+           cy="-11.413548"
+           class="guide"
+           r="2.5" />
+        <circle
+           id="circle22574"
+           cx="42.574738"
+           cy="-11.413548"
+           class="guide"
+           r="2" />
+        <circle
+           id="circle22576"
+           cx="42.574738"
+           cy="-11.413548"
+           class="guide"
+           r="1.5" />
+        <circle
+           id="circle22578"
+           cx="42.574738"
+           cy="-11.413548"
+           class="guide"
+           r="0.5" />
+      </g>
+      <g
+         id="circle-2-guide-left"
+         transform="translate(-7.7747389,39.538058)"
+         style="display:none">
+        <circle
+           id="guide"
+           cx="42.574738"
+           cy="-11.413548"
+           class="guide"
+           r="1" />
+        <circle
+           id="ellipse22536"
+           cx="42.574738"
+           cy="-11.413548"
+           class="guide"
+           r="3.5" />
+        <circle
+           id="ellipse22538"
+           cx="42.574738"
+           cy="-11.413548"
+           class="guide"
+           r="3" />
+        <circle
+           id="circle22558"
+           cx="42.574738"
+           cy="-11.413548"
+           class="guide"
+           r="4" />
+        <circle
+           id="circle22554"
+           cx="42.574738"
+           cy="-11.413548"
+           class="guide"
+           r="2.5" />
+        <circle
+           id="circle22540"
+           cx="42.574738"
+           cy="-11.413548"
+           class="guide"
+           r="2" />
+        <circle
+           id="circle22552"
+           cx="42.574738"
+           cy="-11.413548"
+           class="guide"
+           r="1.5" />
+        <circle
+           id="ellipse22556"
+           cx="42.574738"
+           cy="-11.413548"
+           class="guide"
+           r="0.5" />
+      </g>
+    </g>
+  </g>
+  <g
+     id="back-group"
+     style="display:none">
+    <g
+       id="back-text-group"
+       transform="matrix(-1,0,0,1,90,0)">
+      <text
+         xml:space="preserve"
+         x="61.340622"
+         y="-22.989012"
+         id="tmp"
+         class="text font"
+         transform="scale(1,-1)">TMP</text>
+      <text
+         xml:space="preserve"
+         x="-39.602051"
+         y="-85.482277"
+         id="designed-by-evan"
+         class="text font"
+         transform="matrix(0,-1,-1,0,0,0)">Designed by Evan*</text>
+      <text
+         xml:space="preserve"
+         x="61.287262"
+         y="-37.789806"
+         id="text1435"
+         class="text font"
+         transform="scale(1,-1)">MARKER/STRING/MATCH</text>
+      <text
+         xml:space="preserve"
+         x="66.799133"
+         y="-8.2907295"
+         id="stand/wrench"
+         class="text font"
+         transform="scale(1,-1)">STAND/WRENCH</text>
+      <text
+         xml:space="preserve"
+         x="-81.24054"
+         y="24.410887"
+         id="boot-text"
+         class="text font"
+         transform="scale(-1,1)">BOOT</text>
+    </g>
+    <g
+       id="text-group-back-1">
+      <text
+         xml:space="preserve"
+         id="text-back-1-15"
+         class="font text "><textPath
+           xlink:href="#text-back-circle-1"
+           id="textPath462">$1/15°<textPath
+   xlink:href="#circle27608"
+   id="textPath27611" /></textPath></text>
+      <circle
+         id="text-back-circle-1"
+         r="13.5"
+         class="guide"
+         cx="-76.829247"
+         cy="9.4278393"
+         style="display:inline"
+         transform="rotate(-150)" />
+    </g>
+    <g
+       id="text-group-back-2"
+       style="display:inline">
+      <circle
+         id="text-back-circle-2"
+         class="guide"
+         cx="-2.0944619"
+         cy="52.622284"
+         r="11.175"
+         transform="rotate(-60)"
+         style="display:inline" />
+      <text
+         xml:space="preserve"
+         id="text-back-2-36"
+         class="font text"
+         style="display:inline"><textPath
+           xlink:href="#text-back-circle-2"
+           id="textPath461">$2/36°<textPath
+   xlink:href="text-back-circle-2"
+   id="textPath27649" /></textPath></text>
+    </g>
+    <text
+       xml:space="preserve"
+       x="10.150821"
+       y="-34.718456"
+       id="text-block-1"
+       class="text font"
+       transform="rotate(90)">TEXT HERE</text>
+    <text
+       xml:space="preserve"
+       x="-54.239594"
+       y="-14.060164"
+       id="text-block-2"
+       class="text font"
+       transform="rotate(180,1.8302483,0.07657594)"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2px;font-family:'Roboto Mono';-inkscape-font-specification:'Roboto Mono, @wght=100';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;font-variation-settings:'wght' 100;text-align:center;text-anchor:middle;white-space:pre;inline-size:35.7038;display:inline;fill:none;stroke:#ff6600;-inkscape-stroke:hairline"><tspan
+         x="-54.239594"
+         y="-14.060164"
+         id="tspan1948"> TEXT HERE
+</tspan><tspan
+         x="-54.239594"
+         y="-11.560164"
+         id="tspan1950">TEXT HERE TEXT HERE
+</tspan><tspan
+         x="-54.239594"
+         y="-9.0601641"
+         id="tspan1952">TEXT HERE</tspan></text>
+    <g
+       id="strike-group">
+      <rect
+         id="strike-guide"
+         width="0.99999988"
+         height="9.6999998"
+         x="71.221214"
+         y="43.299999"
+         class="guide"
+         style="display:inline" />
+      <rect
+         id="strike-engrave"
+         width="52.971214"
+         height="8.6999998"
+         x="18.25"
+         y="44.299999"
+         class="engrave-depth"
+         style="display:inline" />
+      <text
+         x="45.099934"
+         y="-72.245743"
+         id="strike-text"
+         class="text  font"
+         style="display:inline"
+         transform="rotate(90)">STRIKE</text>
+      <rect
+         id="strike-numbers-spacer"
+         width="0.99999988"
+         height="9.6999998"
+         x="17.222"
+         y="43.299999"
+         class="guide"
+         style="display:inline" />
+    </g>
+    <text
+       xml:space="preserve"
+       x="45.065037"
+       y="-15.774531"
+       id="text-block-3"
+       class="text font"
+       transform="rotate(90)"
+       style="display:inline"><tspan
+         id="tspan34915"
+         x="45.065037"
+         y="-15.774531">TEXT</tspan><tspan
+         x="45.065037"
+         y="-13.274531"
+         id="tspan1622">HERE</tspan></text>
+    <path
+       d="M 86.1625,3 V 3.635 Z M 84.575,3 V 4.27 Z M 82.9875,3 V 3.635 Z M 81.4,3 V 4.905 Z M 79.8125,3 V 3.635 Z M 78.225,3 V 4.27 Z M 76.6375,3 V 3.635 Z M 75.05,3 V 5.54 Z M 73.4625,3 V 3.635 Z M 71.875,3 V 4.27 Z M 70.2875,3 V 3.635 Z M 68.7,3 V 4.905 Z M 67.1125,3 V 3.635 Z M 65.525,3 V 4.27 Z M 63.9375,3 V 3.635 Z M 62.35,3 V 6.175 Z M 60.7625,3 V 3.635 Z M 59.175,3 V 4.27 Z M 57.5875,3 V 3.635 Z M 56,3 V 4.905 Z M 54.4125,3 V 3.635 Z M 52.825,3 V 4.27 Z M 51.2375,3 V 3.635 Z M 49.65,3 V 5.54 Z M 48.0625,3 V 3.635 Z M 46.475,3 V 4.27 Z M 44.8875,3 V 3.635 Z M 43.3,3 V 4.905 Z M 41.7125,3 V 3.635 Z M 40.125,3 V 4.27 Z M 38.5375,3 V 3.635 Z M 36.95,3 V 6.175 Z M 35.3625,3 V 3.635 Z M 33.775,3 V 4.27 Z M 32.1875,3 V 3.635 Z M 30.6,3 V 4.905 Z M 29.0125,3 V 3.635 Z M 27.425,3 V 4.27 Z M 25.8375,3 V 3.635 Z M 24.25,3 V 5.54 Z M 22.6625,3 V 3.635 Z M 21.075,3 V 4.27 Z M 19.4875,3 V 3.635 Z M 17.9,3 V 4.905 Z M 16.3125,3 V 3.635 Z M 14.725,3 V 4.27 Z M 13.1375,3 V 3.635 Z M 11.55,3 V 6.175 Z M 9.9625,3 V 3.635 Z M 8.375,3 V 4.27 Z M 6.7875,3 V 3.635 Z M 5.2,3 V 4.905 Z M 3.6125,3 V 3.635 Z M 87.75,4.5875 h -0.635 z m 0,1.5875 h -1.27 z m 0,1.5875 h -0.635 z m 0,1.5875 h -1.905 z m 0,1.5875 h -0.635 z m 0,1.5875 h -1.27 z m 0,1.5875 h -0.635 z m 0,1.5875 h -2.54 z m 0,1.5875 h -0.635 z m 0,1.5875 h -1.27 z m 0,1.5875 h -0.635 z m 0,1.5875 h -1.905 z m 0,1.5875 h -0.635 z m 0,1.5875 h -1.27 z m 0,1.5875 h -0.635 z m 0,1.5875 h -3.175 z m 0,1.5875 h -0.635 z m 0,1.5875 h -1.27 z m 0,1.5875 h -0.635 z m 0,1.5875 h -1.905 z m 0,1.5875 h -0.635 z m 0,1.5875 h -1.27 z m 0,1.5875 h -0.635 z m 0,1.5875 h -2.54 z m 0,1.5875 h -0.635 z m 0,1.5875 h -1.27 z m 0,1.5875 h -0.635 z m 0,1.5875 h -1.905 z m 0,1.5875 h -0.635 z m 0,1.5875 h -1.27 z m 0,1.5875 h -0.635 z m 0,1.5875 h -3.175 z m 0,1.5875 H 87.115 Z M 84.75,57 v -3.175 z m -1.5875,0 v -0.635 z m -1.5875,0 v -1.27 z m -1.5875,0 V 56.365 Z M 78.4,57 v -1.905 z m -1.5875,0 v -0.635 z m -1.5875,0 v -1.27 z m -1.5875,0 V 56.365 Z M 72.05,57 v -2.54 z m -1.5875,0 v -0.635 z m -1.5875,0 v -1.27 z m -1.5875,0 V 56.365 Z M 65.7,57 v -1.905 z m -1.5875,0 v -0.635 z m -1.5875,0 v -1.27 z m -1.5875,0 V 56.365 Z M 59.35,57 v -3.175 z m -1.5875,0 v -0.635 z m -1.5875,0 v -1.27 z m -1.5875,0 V 56.365 Z M 53,57 v -1.905 z m -1.5875,0 v -0.635 z m -1.5875,0 v -1.27 z m -1.5875,0 V 56.365 Z M 46.65,57 v -2.54 z m -1.5875,0 v -0.635 z m -1.5875,0 v -1.27 z m -1.5875,0 V 56.365 Z M 40.3,57 v -1.905 z m -1.5875,0 v -0.635 z m -1.5875,0 v -1.27 z m -1.5875,0 V 56.365 Z M 33.95,57 v -3.175 z m -1.5875,0 v -0.635 z m -1.5875,0 v -1.27 z m -1.5875,0 V 56.365 Z M 27.6,57 v -1.905 z m -1.5875,0 v -0.635 z m -1.5875,0 v -1.27 z m -1.5875,0 V 56.365 Z M 21.25,57 v -2.54 z m -1.5875,0 v -0.635 z m -1.5875,0 v -1.27 z m -1.5875,0 V 56.365 Z M 14.9,57 v -1.905 z m -1.5875,0 v -0.635 z m -1.5875,0 v -1.27 z m -1.5875,0 V 56.365 Z M 8.55,57 V 53.825 Z M 6.9625,57 V 56.365 Z M 5.375,57 v -1.27 z"
+       id="imperial-ruler-markings"
+       class="score" />
+    <g
+       id="ruler-imperial-top-number-group"
+       style="display:inline">
+      <text
+         x="-84"
+         y="-53.825001"
+         id="ruler-imperial-top-number-0"
+         class="ruler-text text font"
+         transform="scale(-1)">0</text>
+      <text
+         x="-58.599998"
+         y="-53.825001"
+         id="ruler-imperial-top-number-1"
+         class="ruler-text text font"
+         transform="scale(-1)"
+         style="display:inline">1</text>
+      <text
+         x="-33.200001"
+         y="-53.825001"
+         id="ruler-imperial-top-number-2"
+         class="ruler-text text font"
+         transform="scale(-1)">2</text>
+      <text
+         x="-7.8000002"
+         id="ruler-imperial-top-number-3"
+         class="ruler-text text font"
+         transform="scale(-1)"
+         y="-53.825001">3</text>
+    </g>
+    <g
+       id="ruler-imperial-number-bottom-group"
+       style="display:inline">
+      <text
+         x="-61.599998"
+         y="-5.2152348"
+         id="ruler-imperial-bottom-number-1"
+         class="ruler-text text font"
+         style="display:inline"
+         transform="scale(-1)">1</text>
+      <text
+         x="-36.199997"
+         y="-5.2152348"
+         id="ruler-imperial-bottom-number-2"
+         class="ruler-text text font"
+         style="display:inline"
+         transform="scale(-1)">2</text>
+      <text
+         x="-10.800001"
+         id="ruler-imperial-bottom-number-3"
+         class="ruler-text text font"
+         y="-5.2152348"
+         style="display:inline"
+         transform="scale(-1)">3</text>
+    </g>
+    <rect
+       id="engrave-matte"
+       width="86.5"
+       height="55"
+       x="1.75"
+       y="2.5"
+       class="engrave-matte"
+       style="display:none" />
+    <rect
+       x="0"
+       y="0"
+       width="37"
+       height="37"
+       id="margin"
+       class="guide"
+       style="display:none"
+       transform="matrix(0.30169924,0,0,0.30169924,73.744926,43.043925)" />
+  </g>
+</svg>
